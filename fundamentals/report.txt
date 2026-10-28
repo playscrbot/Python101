@@ -1,0 +1,3 @@
+Daily Report
+Employees processed: 25
+Errors: 2

@@ -1,0 +1,7 @@
+import csv
+
+with open("employees.csv", "r", encoding="utf-8", newline="") as file:
+    reader = csv.reader(file)
+
+    for row in reader:
+        print(row)

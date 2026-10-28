@@ -1,0 +1,4 @@
+names = ["John", "Mary", "Ravi"]
+
+for index, name in enumerate(names):
+    print(index, name)

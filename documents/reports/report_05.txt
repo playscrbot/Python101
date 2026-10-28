@@ -1,0 +1,11 @@
+Employee Registration Form
+
+Employee Name: Ramesh
+Employee ID: EMP-1045
+Department: Support
+Joining Date: 5 January 2026
+Status: Active
+
+Contact Information
+Email: ramesh@example.com
+Phone: 8786271671

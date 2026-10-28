@@ -1,0 +1,11 @@
+Employee Registration Form
+
+Employee Name: Praveen
+Employee ID: EMP-1044
+Department: Billing
+Joining Date: 12 February 2016
+Status: Inactive
+
+Contact Information
+Email: praveen@example.com
+Phone: 7384992474

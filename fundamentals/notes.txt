@@ -1,0 +1,2 @@
+Hello from Python!
+This is my first text file.

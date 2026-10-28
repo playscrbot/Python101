@@ -1,0 +1,11 @@
+Employee Registration Form
+
+Employee Name: Yash
+Employee ID: EMP-1041
+Department: Administration
+Joining Date: 8 May 2021
+Status: Active
+
+Contact Information
+Email: yash@example.com
+Phone: 9849523210

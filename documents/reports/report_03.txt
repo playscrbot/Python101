@@ -1,0 +1,11 @@
+Employee Registration Form
+
+Employee Name: Rahul Kumar
+Employee ID: EMP-1043
+Department: Billing
+Joining Date: 25 August 2025
+Status: Pending
+
+Contact Information
+Email: rahulkumar@example.com
+Phone: 9478492201

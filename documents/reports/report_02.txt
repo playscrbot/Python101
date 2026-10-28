@@ -1,0 +1,11 @@
+Employee Registration Form
+
+Employee Name: Anita Sharma
+Employee ID: EMP-1042
+Department: Operations
+Joining Date: 15 September 2026
+Status: Active
+
+Contact Information
+Email: anita@example.com
+Phone: 9876543210
